@@ -1,0 +1,21 @@
+.SelectVideoDevices{
+ width: 60%;
+}
+
+.VideoTitle{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: larger;
+    align-items: center;
+}
+.VideoOptions{
+    display: flex;
+    justify-content: center;
+}
+.Options{
+    width: 80%;
+    height: 6vh;
+    border: solid 2px #000;
+    font-size: large;
+    font-weight: 400;
+}

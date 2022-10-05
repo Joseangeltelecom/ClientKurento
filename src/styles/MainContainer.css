@@ -1,0 +1,8 @@
+.MainContainer{
+    height: 60vh;
+    background-color: beige;
+    padding: 2rem 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
