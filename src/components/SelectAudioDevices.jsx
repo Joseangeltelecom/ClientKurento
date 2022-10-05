@@ -7,7 +7,7 @@ function SelectAudioDevices(){
         <div className="SelectAudioDevices" >
             <div className='AudioTitle'>
                 <IoIosVideocam size={40}/>
-                <p>Video devices</p>
+                <p>Audio devices</p>
                 <IoReloadOutline size={25}/>
             </div>
             <div className='AudioOptions'>

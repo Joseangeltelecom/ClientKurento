@@ -8,7 +8,7 @@ function SelectDevices(){
         <div className="SelectDevices" >
             <SelectVideoDevices />
             <SelectAudioDevices />
-            <Button input="Let's start!"/>
+            <Button input="Let's start"/>
         </div>
     )
 }
